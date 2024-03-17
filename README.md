@@ -7,11 +7,11 @@ logging in or registering, users should be redirected back to the home page wher
 features.
 
 ## Deployed link
-[link](https://emtr-frontend.vercel.app/)
+[link](https://worldref-kappa.vercel.app/)
 
 ## Installation or How to run the app
 I created React Application. So, if you want to run our code then please read the instructions below :
-- Clone our repository `https://github.com/srinivasGokarla/Emitrr`
+- Clone our repository `https://github.com/srinivasGokarla/worldref`
 
 
 - After installation, now run `npm start` and  you will see a new window will be opening in the default browser which is running on port `http://localhost:3000`
